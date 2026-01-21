@@ -21,3 +21,15 @@ This project is a menu-driven C application that allows users to perform calcula
 ```bash
 gcc main.c -o finalProject
 ./finalProject
+```
+
+## Program Output Examples
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Write File Example
+![Write File](screenshots/writefile.png)
+
+### Read File example
+![Read File](screenshots/readfile.png)
