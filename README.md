@@ -26,13 +26,10 @@ gcc main.c -o finalProject
 ## Program Output Examples
 
 ### Main Menu
-![Main Menu](<img width="1664" height="398" alt="image" src="https://github.com/user-attachments/assets/075224d4-f31a-4a39-8b9b-91d6194851c8" />)
-
+<img width="1658" height="320" alt="image" src="https://github.com/user-attachments/assets/6267d9ca-e41f-4b07-b838-9ae3d24bdb36" />
 
 ### Write File Example
-![Write File](<img width="1644" height="300" alt="image" src="https://github.com/user-attachments/assets/b25a2e0f-464d-403f-b67e-5a1b7bd53ce9" />
-)
+<img width="1644" height="300" alt="image" src="https://github.com/user-attachments/assets/b25a2e0f-464d-403f-b67e-5a1b7bd53ce9" />
 
 ### Read File example
-![Read File](<img width="1658" height="320" alt="image" src="https://github.com/user-attachments/assets/17d1d9e0-145b-42c3-b4ed-55b9d9f0b29b" />
-)
+<img width="1658" height="320" alt="image" src="https://github.com/user-attachments/assets/17d1d9e0-145b-42c3-b4ed-55b9d9f0b29b" />
