@@ -26,7 +26,7 @@ gcc main.c -o finalProject
 ## Program Output Examples
 
 ### Main Menu
-![Main Menu](screenshots/Menu.png)
+![Main Menu](Final Project/screenshots/Menu.png)
 
 ### Write File Example
 ![Write File](screenshots/Write file.png)
