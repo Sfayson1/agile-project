@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1768707210 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\calc1.c
+	"calc1.h"
+
+1768707645 c:\users\kyleigh\onedrive - ecpi university\documents\final project\calc1.h
+
+1768708833 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\calc2.c
+	"calc2.h"
+
+1768713038 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\fileread.c
+	<stdio.h>
+	"fileRead.h"
+
+1768707645 c:\users\kyleigh\onedrive - ecpi university\documents\final project\fileread.h
+
+1768713038 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\filewrite.c
+	<stdio.h>
+	"fileWrite.h"
+
+1768707645 c:\users\kyleigh\onedrive - ecpi university\documents\final project\filewrite.h
+
+1768707210 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\main.c
+	"mainLoop.h"
+
+1768713476 c:\users\kyleigh\onedrive - ecpi university\documents\final project\mainloop.h
+
+1768707210 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\mainloop.c
+	<stdio.h>
+	<stdlib.h>
+	"mainLoop.h"
+	"menu.h"
+	"fileWrite.h"
+	"fileRead.h"
+	"calc1.h"
+	"calc2.h"
+
+1768713879 c:\users\kyleigh\onedrive - ecpi university\documents\final project\menu.h
+
+1768707210 c:\users\kyleigh\onedrive - ecpi university\documents\final project\calc2.h
+
+1768707645 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\mainloop.h
+
+1768713038 source:c:\users\kyleigh\onedrive - ecpi university\documents\final project\menu.c
+	<stdio.h>
+	"menu.h"
+
