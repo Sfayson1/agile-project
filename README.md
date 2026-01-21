@@ -26,10 +26,10 @@ gcc main.c -o finalProject
 ## Program Output Examples
 
 ### Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](screenshots/Menu.png)
 
 ### Write File Example
-![Write File](screenshots/writefile.png)
+![Write File](screenshots/Write file.png)
 
 ### Read File example
-![Read File](screenshots/readfile.png)
+![Read File](screenshots/Read file.png)
